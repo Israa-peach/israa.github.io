@@ -12,6 +12,11 @@ strong {
 	font-size: 1.2em;
 }
 
+.tete strong {
+	display: inline-block;
+	will-change: transform, opacity;
+}
+
 
 .sect {
 	display: flex;
